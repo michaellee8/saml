@@ -3,6 +3,8 @@
 
 This repositry is my modification to crewjam/saml to adapt a production, scoped service provider environment, work will be mainly done in its samlidp module. Changes could be pulled back to main repo if it is appropriate.
 
+--------------------------------------------------------------------------------------------
+
 Package saml contains a partial implementation of the SAML standard in golang.
 SAML is a standard for identity federation, i.e. either allowing a third party to authenticate your users or allowing third parties to rely on us to authenticate their users.
 
